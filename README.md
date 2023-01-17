@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently studing python coding at [HyperionDev](https://www.hyperiondev.com/portfolio/104473/).
+
+
 <!--
 **Falazure64/Falazure64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
